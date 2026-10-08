@@ -1,1 +1,12 @@
 .DS_Store
+
+#Claude generated samples
+agent.cedarschema
+entities.json
+Makefile
+pdp.py
+README 2.md
+context/no-approval.json
+tests/test_policy_01.py
+context/valid-approval.json
+policies/01-irreversible-actions.cedar
